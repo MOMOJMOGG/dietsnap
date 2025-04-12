@@ -1,0 +1,9 @@
+data/
+models/
+testing/
+ckpts/
+flagged/
+output/
+*.jpg
+*.png
+.env
