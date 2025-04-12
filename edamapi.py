@@ -19,5 +19,11 @@ def get_food_data(food):
     food_nutrients = data['parsed'][0]['food']['nutrients']
     print(data)
     print(food_nutrients)
+    
+    #? ENERC_KCAL >> Energy (kcal) | 熱量
+    #? PROCNT >> Protein (g) | 蛋白質
+    #? FAT >> Total Fat (g) | 總脂肪
+    #? CHOCDF >> Carbohydrate, by difference (g) | 碳水化合物
+    #? FIBTG >> Fiber, total dietary (g) | 膳食纖維
 
 get_food_data('bread')

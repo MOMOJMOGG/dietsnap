@@ -4,6 +4,7 @@ testing/
 ckpts/
 flagged/
 output/
+results/
 *.jpg
 *.png
 .env
