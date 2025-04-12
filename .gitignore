@@ -6,5 +6,4 @@ flagged/
 output/
 results/
 *.jpg
-*.png
 .env
